@@ -5,6 +5,7 @@ Standard library only. Deterministic: the same bytes on every run.
 
 import os
 
+# The judged text: one sentence, one journey. Keep it verbatim.
 SENTENCE = (
     "I left home at seventeen with a train ticket folded inside my shoe "
     "and a coat two sizes too big, rode three days to a city where nobody "
